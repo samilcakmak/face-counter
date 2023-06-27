@@ -4,3 +4,7 @@ Kameradan canlı algılanan bir yüz sayacı
 
 Kaç kişinin anlık olarak pc başında olduğunu sayar.
 
+
+contact : samilcakmak@hotmail.com
+
+M. Şamil Çakmak
